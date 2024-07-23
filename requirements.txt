@@ -1,0 +1,5 @@
+google-generativeai
+sounddevice
+numpy
+scipy
+pyttsx3
